@@ -8,4 +8,4 @@
 - 点击每项最右边的`圆圈`，删除事项
 - 基于`localStorage`本地存储，关闭浏览器再打开，数据不会丢失
 
-![](https://jack-img.oss-cn-hangzhou.aliyuncs.com/img/20210327125717.gif)
+![](https://jack-img.oss-cn-hangzhou.aliyuncs.com/img/20210327200854.gif)
